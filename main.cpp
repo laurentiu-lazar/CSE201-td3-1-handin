@@ -36,6 +36,7 @@ int main(int argc, char* argv[])
 
   {
     std::cout << "A better, new initial message" << std::endl;
+    //new comment for change in main.cpp
   }
   // END OF THE CUSTOM CODE SECTION
 #else
